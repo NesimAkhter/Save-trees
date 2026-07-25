@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Save Trees</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #e8f5e9;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #2e7d32;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+            text-align: center;
+        }
+
+        img {
+            width: 70%;
+            max-width: 700px;
+            border-radius: 10px;
+            margin: 20px 0;
+        }
+
+        h2 {
+            color: #1b5e20;
+        }
+
+        ul {
+            text-align: left;
+            display: inline-block;
+            font-size: 18px;
+        }
+
+        footer {
+            background-color: #2e7d32;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>🌳 Save Trees, Save Life 🌳</h1>
+    <p>Trees are the lungs of our planet. Let's protect them!</p>
+</header>
+
+<div class="container">
+
+    <!-- Replace the image URL with any image you like -->
+    <img src="https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=1000&q=80"
+         alt="Person planting a tree">
+
+    <h2>7 Ways to Save Trees</h2>
+
+    <ul>
+        <li>🌱 Plant more trees in your community.</li>
+        <li>📄 Reduce paper usage by using digital documents.</li>
+        <li>♻ Recycle paper and cardboard products.</li>
+        <li>🔥 Prevent forest fires by following safety rules.</li>
+        <li>🌳 Support tree plantation and conservation programs.</li>
+        <li>🚫 Avoid cutting trees unnecessarily.</li>
+        <li>📢 Spread awareness about the importance of trees.</li>
+    </ul>
+
+</div>
+
+<footer>
+    <p>"The best time to plant a tree was 20 years ago. The second best time is today."</p>
+</footer>
+
+</body>
+</html>
